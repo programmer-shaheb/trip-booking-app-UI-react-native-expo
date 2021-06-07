@@ -1,4 +1,6 @@
-# React Native - Trip Booking App UI
+# React Native - Trip Booking App
+
+## [try it](https://expo.io/@akash97/LCRN03-trip-booking-app-expo)
 
 ![Mobile App](https://i.ibb.co/DQ83JgS/maxresdefault.jpg)
 

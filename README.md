@@ -1,6 +1,6 @@
 # React Native - Trip Booking App UI
 
-![Mobile App](<img src="./maxresdefault.jpg" />)
+![Mobile App](https://i.ibb.co/DQ83JgS/maxresdefault.jpg)
 
 ## Design Credit:
 
